@@ -1,155 +1,98 @@
-
 # Feedback Semana 3
 
-## Idea de negocio
+## Feedback relacionado con la presentación
 
-## Tipo de negocio
+- La letra sigue sin verse desde la posición de los profesores.
+- Hemos puesto demasiada letra con lo que la audiencia pierde atención.
+- La imagen corporativa de la presentación está bien.
+- Presentarse al comienzo.
+- Hay que destacar lo positivo de nuestro trabajo frente a lo negativo.
+- **Competidores** debe ir antes que los **mockups**.
+- Algo que llame la atención al público al principio para captar su atención.
 
-## Análisis de competidores preliminar
+## Feedback relacionado con el desarrollo del proyecto
 
-La diapositiva de las conclusiones habría que reeditarla para que sea más comprensible.
-Que quede muy claro lo nuestro frente a los demás no de uno en uno, más en general.
-Cómo hemos encontrado esos competidores.
-Competidores directos.
-Hacer un filtrado con animaciones en las transparencias mola.
+### Análisis de competidores preliminar
 
-## Diferencia entre cliente y usuario
+- Que quede muy claro lo nuestro frente a los demás, no de uno en uno, más en general.
+- Cómo hemos encontrado esos competidores.
+- **Competidores directos.**
 
-Clientes autónomos(?): tipo tiendas
+### Diferencia entre cliente y usuario
 
-## Análisis de coste preliminar
+- Definir qué tipo de tiendas pueden usar nuestra aplicación.
 
-Pequeño desglose, que se pueda asimilar. Y que sea CLARO
+### Análisis de coste preliminar
 
-Buscar en que nos diferenciamos con Rentuki. Qué pasa si consiguen un gran público, sería una app exactamente igual a la nuestra.
+- Pequeño desglose, que se pueda asimilar y que se vea de forma clara.
+- Buscar en qué nos diferenciamos con Rentuki. ¿Qué pasa si consiguen un gran público? Sería una aplicación exactamente igual a la nuestra.
+- 100 euros en marketing es demasiado poco.
+- Sería interesante meter estimaciones de usuario.
 
-Poco 1k euros en marketing.
+### Matriz DAFO
 
-Sería interesante meter estimaciones de usuario
+- El DAFO ya no era para esta semana.
+- En nuestra presentación, más que un DAFO eran los riesgos. No encajan las debilidades con las oportunidades.
 
-## Matriz DAFO
+### MVP
 
-El DAFO ya no era para esta semana, se va a ir cayendo.
+- Definir el tiempo de alquiler.
 
-En nuestra presentación, más que un DAFO eran los riesgos. No encaja las debilidades con las oportunidades.
+### Financiación
 
-## MVP
+- Calcular el tiempo en que empezaremos a sacar rentabilidad con los gastos estimados en el TCO. Habría que ver la financiación si va mediante planes, acuerdos con empresas u otra forma.
 
-Definir el tiempo de alquiler.
+### Descripción del equipo
 
-## Financiación
+- No aparecen los nombres de las personas que participan en el equipo. También tiene que aparecer una foto de cada miembro del equipo.
 
-Calcular tiempo en empezar a sacar rentabilidad con los gastos estimados en el TCO - habría que ver la financiación si va mediante planes, acuerdos con empresas u otra forma
+### Documentación
 
-## Descripción del equipo
+- Actualizar **Customer Agreement** (CA): especificar que nos comprometemos a las tareas de esa semana y que habrá un responsable de esa tarea. Encargado de calidad visual por ejemplo de las presentaciones. Decir también en la presentación si ha habido alguien que no haya cumplido algún punto del CA. Generar versiones distintas del CA, tiene que estar actualizándose cada semana. Subsanar más los incumplimientos del CA sin tener que echar del grupo. Una opción de penalización es apoyarnos en la nota que le damos a los compañeros. Tiene que haber gente que sea responsable de supervisar, esto debe definirse en el CA.
 
-No aparecen los nombres de las personas que participan en el equipo. Cristina quiere vernos las caras 😳
+### Usuarios pilotos
 
-## IA
+- Poner una ratio de respuestas respecto a los mensajes enviados de las encuestas si tenemos.
+- Hacer encuestas y analizarlas, llamar y hablar con posibles usuarios pilotos.
+- Esas encuestas deben tener un grado de detalle sobre el que sacar conclusiones a mencionar, y de ahí concretar el valor diferencial de nuestra aplicación.
+- Realizar análisis exhaustivo de usuarios pilotos para sacar funcionalidades que nos diferencien, rentabilidad de la aplicación, interfaz de usuario...
+- **Grado de innovación tecnológica**.
 
-## Documentación
+### Mockups
 
-Actualizar CA: especificar que nos comprometemos a las tareas de esa semana y que habrá un responsable de esa tarea. Encargado de calidad visual por ejemplo de las presentaciones. Decir también en la presentación si ha habido alguien que no haya cumplido algún punto del CA. Generar versiones distintas del CA tiene que estar actualizándose cada semana. Subsanar más los incumplimientos del CA sin tener que echar del grupo. Una opción de penalización es apoyarnos en la nota que le damos a los compañeros. Tiene que haber gente que sea responsable de supervisar, esto debe definirse en el CA.
+- Mockups de casos de uso **core**. Resaltar los casos de uso core. (login no es un caso de uso core).
+- No se podían leer. Hacer zoom de las distintas partes.
 
-## Usuarios pilotos
+### Riesgos
 
-Poner un ratio de respuestas respecto a los mensajes enviados de las encuestas si tenemos.
+- Poner en la presentación los riesgos más importantes.
+- Añadir riesgos (yo pondría aspectos claves del análisis de riesgos).
 
-Hacer encuestas y analizarlas, llamar y hablar con posibles usuarios pilotos.
+## Tareas que realizar durante esta semana:
 
-Esas encuestas tienen que tener un grado de detalle sobre el que sacar conclusiones a mencionar, y de ahí concretar el valor diferencial de nuestra aplicación.
-
-Realizar análisis exhaustivo de usuarios pilotos para sacar funcionalidades que nos diferencien, rentabilidad de la aplicación, interfaz de usuario...
-
-## Grado de innovación tecnológica
-
-## Mockups
-
-Mockups casos de uso core. Resaltar los casos de uso core. (login no es un caso de uso core)
-
-No se podían leer. Hacer zoom de las distintas partes.
-
-## Riesgos
-
-Poner en la presentación los riesgos más importantes
-
-Añadir riesgos (yo pondría aspectos claves del análisis de riesgos)
-
-## Presentación
-
-Presentarse al comienzo.
-Saltar índice si es aburrido (siempre)
-Llamar la atención al comienzo para captar al público.
-Decir el nombre de la app al comienzo.
-Destacar lo positivo antes que lo negativo.
-Poner la letra más grande. Si no se ve desde atrás suspenso.
-Diferencia de colores más clara.
-Mezcla de imagen y texto, no sólo imagen como en la diapositiva de los competidores
-Llamar la atención al comienzo.
-Competidores antes que mockups
-NO DECIR: “sabemos que... pero”: si algo está mal, no dejar que ocurra -> CAMBIARLO
-Llevar un buen ritmo de velocidad -
-
-## Qué realizar durante esta semana:
-
-Corregir todo lo que tengamos mal en base al feedback.
-
-Actualizaciones del agreement, responsables de tareas y/o partes del proyecto, debe estar reflejado en el Commitment Agreement
-
-Si no se cumple algún punto del agreement, decir la razón (anexo o versionado). Poner penalizaciones antes de echar del grupo para poder reencaminar la situación. Como en cada entregable nos valoramos los unos a los otros, ahí podemos reflejar esas penalizaciones. Responsables de revisar las cosas
-
-Qué es un riesgo – evento que puede causar perdidas economicas. Analisis de riesgos más exhaustivos, poner los más importantes (hay q priorizar), decir en que consiste, probabilidad, consecuencias y acciones para mitigarlo (o mitigar esas consecuencias)
-
-TCO se expresa por meses, no por años. No incluir el IVA. Costes en TOTAL (costes en los q recae la empresa, distintos de salarios brutos y netos). Tener en cuenta lo que le cuesta a LA EMPRESA. Tener en cuenta el coste de Github para desarrollo.
-
-Hora básica de servicio (precio).
-
-TCO ni muy genérico ni muy específico, que se pueda leer
-
-Idea de negocio, elevator pitch (50 palabras) - Inicio efectivo, captar la atención del publico
-
-Tipo de negocio
-
-Analisis de competidores
-
-Analisis preliminar de costes tco coste personal, de amortizacion del proyecto, infraestructura y licencias (app engine,etc)  y costes indirectos, y mantenimiento.
-
-Gestion de usuarios pilotos (hay una pildora teorica de usuarios piloto)
-
-MVP, mockups, más especificos con objetivos del SPRINT 1 sobre los casos de uso a implementar en ese sprint. TODOS LOS CASOS DE USO CORE
-
-Innovación, stack tecnológico
-
-Plan de gestión de riesgos (pildora teorica)
-
-Refinar el equipo, buena imagen, que aparezcan los miembros, imagen corporativa (todos similares, en el mismo sitio, misma vestimenta...)
-
-Commitment agreement
-
-Desarrollo – plan de gestión de la calidad del desarrollo – modelo de análisis, como vamos a intentar medir y solucionar ese problema en el proyecto
-
-Modelo de rendimiento del proyecto. Como va cada persona cada semana. CUANTITATIVO. (6h, 8h, 10h)
-
-ALM – herramientas tecnologicas obligatorias (github, github actions – CI/CD, github project para gestión de tareas – luego se evalúa la monitorización de tareas de equipo (graficos y tal))
-
-TIME TRACKING (clockify)
-
-Gestion del codigo (politica de etiquetado,  para los entregables, definir como vamos a etiquetar cada cosa y qué política vamos a seguir para el versionado del código)
-
-Se despliega cada parte por separado. Nada de sustituir el sprint 1 por el 2 ni nada por el estilo. Plataforma que permita ver los 5 despliegues. Todos los sistemas son INTOCABLES. 5 BBDD diferentes.
-
-Landing page donde podamos ir viendo (con idea clave y email PARA CADA PROYECTO)
-
-Planficación de cara al desarrollo, estimación global de los 3 sprints, casos de uso para cada sprint y mostrar la división. Estimación mas concreta para s1, responsabilidades y planificación a 2 semanas vista.
-
-Report de uso de IA COMO SE USA CADA SEMANA
-
-TODO ESTO SE TIENE QUE VER EN LA PRESENTACIÓN, HAY QUE VALORAR EL NIVEL DE DETALLE
-
-Tema presentación y test semana que viene
-
-16 min por presentación (de 15 a 16). Menos de 40 diapositivas.
-
-Condición de fallo: Pasarse 1 segundo y no acabar antes del último minuto.
-
-Habrá personas en las evaluaciones encargadas de dar el feedback.
+1. Corregir todo lo que tengamos mal en base al feedback.
+2. Actualizaciones del **agreement**, responsables de tareas y/o partes del proyecto, debe estar reflejado en el **Commitment Agreement**.
+3. Si no se cumple algún punto del agreement, decir la razón (anexo o versionado). Poner penalizaciones antes de echar del grupo para poder reencaminar la situación. Como en cada entregable nos valoramos los unos a los otros, ahí podemos reflejar esas penalizaciones. Responsables de revisar las cosas.
+4. Qué es un **riesgo** – evento que puede causar pérdidas económicas. Análisis de riesgos más exhaustivos, poner los más importantes (hay que priorizar), decir en qué consiste, probabilidad, consecuencias y acciones para mitigarlo (o mitigar esas consecuencias).
+5. **TCO** se expresa por meses, no por años. No incluir el IVA. Costes en **TOTAL** (costes en los que recae la empresa, distintos de salarios brutos y netos). Tener en cuenta lo que le cuesta a **LA EMPRESA**. Tener en cuenta el coste de Github para desarrollo.
+6. Hora básica de servicio (precio).
+7. **TCO** ni muy genérico ni muy específico, que se pueda leer.
+8. **Idea de negocio**, **elevator pitch** (50 palabras) - Inicio efectivo, captar la atención del público.
+9. Tipo de negocio.
+10. Análisis de competidores.
+11. Análisis preliminar de costes: **TCO**, coste personal, de amortización del proyecto, infraestructura y licencias (app engine, etc.) y costes indirectos, y mantenimiento.
+12. Gestión de usuarios pilotos (hay una píldora teórica de usuarios piloto).
+13. MVP, mockups, más específicos con objetivos del **SPRINT 1** sobre los casos de uso a implementar en ese sprint. **TODOS LOS CASOS DE USO CORE**.
+14. Innovación, stack tecnológico.
+15. Plan de gestión de riesgos (píldora teórica).
+16. Refinar el equipo, buena imagen, que aparezcan los miembros, imagen corporativa (todos similares, en el mismo sitio, misma vestimenta...).
+17. **Commitment agreement**.
+18. Desarrollo – plan de gestión de la calidad del desarrollo – modelo de análisis, como vamos a intentar medir y solucionar ese problema en el proyecto.
+19. Modelo de rendimiento del proyecto. Cómo va cada persona cada semana. **CUANTITATIVO**. (6h, 8h, 10h).
+20. **ALM** – herramientas tecnológicas obligatorias (github, github actions – CI/CD, github project para gestión de tareas – luego se evalúa la monitorización de tareas de equipo (gráficos y tal).
+21. **TIME TRACKING** (clockify).
+22. Gestión del código (política de etiquetado, para los entregables, definir cómo vamos a etiquetar cada cosa y qué política vamos a seguir para el versionado del código).
+23. Se despliega cada parte por separado. Nada de sustituir el sprint 1 por el 2 ni nada por el estilo. Plataforma que permita ver los 5 despliegues. Todos los sistemas son **INTOCABLES**. 5 BBDD diferentes.
+24. Landing page donde podamos ir viendo (con idea clave y email **PARA CADA PROYECTO**).
+25. Planificación de cara al desarrollo, estimación global de los 3 sprints, casos de uso para cada sprint y mostrar la división. Estimación más concreta para **S1**, responsabilidades y planificación a 2 semanas vista.
+26. Reporte de uso de **IA**, ¿cómo se usa cada semana?
