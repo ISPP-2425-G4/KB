@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Haz click <a href="https://sites.google.com/d/1Ni3Lx9kP7OpQW-K1oGjj-PjCLwQ50ari/p/1KMgzdeZUmItVwV2F7GDAmB7tDs0T16nU/edit?pli=1">aquí</a> y ve directo a nuestra Landing Page, donde iremos añadiendo
+        Haz click <a href="https://sites.google.com/view/borroo">aquí</a> y ve directo a nuestra Landing Page, donde iremos añadiendo
         las últimas novedades y actualizaciones de Borroo.
       </>
     ),
