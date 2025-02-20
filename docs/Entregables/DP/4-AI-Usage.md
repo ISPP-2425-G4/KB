@@ -95,3 +95,8 @@ Para mantener un registro unificado, se ha desarrollado una hoja de Excel en la 
 - **Persona que ha usado la IA**
 - **Fecha**
 - **Enlace a la conversación (si procede)**
+
+El siguiente enlace dirige a la hoja de Excel en cuestión: 
+
+[Registro de uso de IA](https://uses0-my.sharepoint.com/:x:/g/personal/javnievic_alum_us_es/EZL_YYWo-npCs7EYC51xrFIBQ7dW_xUOMUm3laI0nsm5EA?e=IoTrYU)
+
