@@ -1,4 +1,4 @@
-# ANÁLISIS DE COMPETIDORES
+# 4-COMPETITORS
 
 ## Devising a Project (#DP) – G4
 

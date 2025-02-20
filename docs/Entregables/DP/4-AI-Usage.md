@@ -1,4 +1,4 @@
-# AI-USAGE
+# 4-AI-USAGE
 
 ## Devising a project (DP) – G4
 

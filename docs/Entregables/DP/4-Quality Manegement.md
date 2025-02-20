@@ -1,4 +1,4 @@
-# PLANIFICACIÓN DE GESTIÓN DE LA CALIDAD
+# 4 QUALITY MANEGEMENT
 
 ## Devising a project (DP) – G4
 
