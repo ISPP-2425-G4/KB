@@ -90,7 +90,7 @@ const config = {
           {to: 'docs/Actas/Intro-Actas', label: 'Actas', position: 'left'},
           {to: 'docs/Entregables/Dp/AI-Usage', label: 'Entregables', position: 'left'},  
           {
-            href: 'https://github.com/ISPP-2425-G4',
+            href: 'https://github.com/ISPP-2425-G4/KB',
             label: 'GitHub',
             position: 'right',
           },
