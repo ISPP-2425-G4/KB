@@ -1,11 +1,29 @@
 # 4-COMMUNICATION MANAGEMENT
 
-## **PROYECTO Borroo App**
+## Devising a project (DP) – G4
 
-**CÓDIGO DE PROYECTO:** G-4  
-**FECHA DE ELABORACIÓN:** 11/02/2025  
+**Repositorio:** [GitHub](https://github.com/ISPP-2425-G4/KB)
 
----
+**Fecha:** 20/02/2025
+
+### Miembros:
+- David Blanco Mora
+- Pablo Díaz Ordóñez
+- Pablo Espinosa Naranjo
+- Jesús Fernández Rodríguez
+- Francisco Fernández Mota
+- Javier García Rodríguez
+- Miguel González Ortiz
+- Álvaro Martín Muñoz
+- Ignacio Naredo Bernardos
+- Javier Nieto Vicioso
+- Marco Padilla Gómez
+- Miguel Palomo García
+- Luis Javier Periáñez Franco
+- Alexander Picón Garrote
+- Santiago Rosado Raya
+- Julia Sánchez Márquez
+- Alejandro Sevillano Barea
 
 ## **1. Canales de Comunicación**
 

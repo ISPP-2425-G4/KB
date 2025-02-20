@@ -88,7 +88,7 @@ const config = {
             label: 'Feedback',
           },
           {to: 'docs/Actas/Intro-Actas', label: 'Actas', position: 'left'},
-          {to: 'docs/Entregables/Dp/AI-Usage', label: 'Entregables', position: 'left'},  
+          {to: 'docs/Entregables/Devising a Project/AI-Usage', label: 'Entregables', position: 'left'},  
           {
             href: 'https://github.com/ISPP-2425-G4',
             label: 'GitHub',
