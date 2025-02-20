@@ -1,4 +1,4 @@
-# Pilots
+# PILOTS
 
 **Devising a project (DP) – G4**
 
