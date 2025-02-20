@@ -57,108 +57,65 @@ Los usuarios a los que está destinado nuestro servicio son personas particulare
 - **Deportistas:** Interesados en probar un deporte sin comprar el equipo necesario.  
 
 En resumen, cualquier persona puede ser un posible usuario de nuestro servicio. 
-Aun así, creemos que la mayoría de nuestros usuarios serán adolescentes y adultos jóvenes de hasta 35 años. Nuestro servicio está dirigido a personas que, por razones de 
-espacio, presupuesto u otros motivos, prefieren alquilar en lugar de comprar. 
-Está pensado tanto para quienes desean obtener un beneficio económico aprovechando lo que ya poseen como para aquellos que buscan acceder 
-temporalmente a determinados materiales a un costo menor que el de compra. 
+
+Aun así, creemos que la mayoría de nuestros usuarios serán adolescentes y adultos jóvenes de hasta 35 años. Nuestro servicio está dirigido a personas que, por razones de espacio, presupuesto u otros motivos, prefieren alquilar en lugar de comprar. 
+
+Está pensado tanto para quienes desean obtener un beneficio económico aprovechando lo que ya poseen como para aquellos que buscan acceder temporalmente a determinados materiales a un costo menor que el de compra. 
 
 ---
 
 ### **Interacción con los usuarios pilotos:**
 
-Nuestra interacción con los usuarios pilotos dependerá de si el usuario es un 
-compañero voluntario del sistema de usuarios pilotos o si es una persona con la que 
-nosotros nos hayamos puesto en contacto. Dependiendo de estas dos cuestiones aquí 
-definiremos con qué frecuencia trataremos con estos usuarios, que canal usaremos 
-dependiendo de las circunstancias y de lo que se hablará cada vez que contactemos 
-con el usuario. 
-También se definirá la política de calificación de los usuarios voluntarios de la propia 
-asignatura.  
+Nuestra interacción con los usuarios pilotos dependerá de si el usuario es un compañero voluntario del sistema de usuarios pilotos o si es una persona con la que nosotros nos hayamos puesto en contacto. Dependiendo de estas dos cuestiones aquí 
+definiremos con qué frecuencia trataremos con estos usuarios, que canal usaremos dependiendo de las circunstancias y de lo que se hablará cada vez que contactemos con el usuario. 
+
+También se definirá la política de calificación de los usuarios voluntarios de la propia asignatura.  
 
 ### **Frecuencia:**
 
-Independientemente de si el usuario es un voluntario de la asignatura o una persona 
-contactada por el equipo, se establecerá un contacto al menos tres días antes de cada 
-entrega de sprint. Esto garantizará que su feedback pueda ser analizado a tiempo e 
-integrado en el mismo sprint. 
+Independientemente de si el usuario es un voluntario de la asignatura o una persona contactada por el equipo, se establecerá un contacto al menos tres días antes de cada entrega de sprint. Esto garantizará que su feedback pueda ser analizado a tiempo e integrado en el mismo sprint. 
 
-En el caso de los usuarios contactados por el equipo, somos conscientes de que no 
-todos estarán disponibles en el momento deseado. Por ello, se seleccionará un 
-mínimo de cinco personas para evaluar cada entregable no técnico, asegurando así 
-una retroalimentación suficiente y representativa.
+En el caso de los usuarios contactados por el equipo, somos conscientes de que no todos estarán disponibles en el momento deseado. Por ello, se seleccionará un mínimo de cinco personas para evaluar cada entregable no técnico, asegurando así una retroalimentación suficiente y representativa.
 
 ### **Canal de contacto:**
 
-Para los usuarios propuestos por la asignatura, se priorizará el contacto presencial, ya 
-que permite establecer una relación más cercana y facilita una mejor comunicación y 
-comprensión mutua. Sin embargo, en caso de que existan dificultades de horario u 
-otras limitaciones, el contacto se mantendrá de forma telemática a través de 
-WhatsApp y/o Discord, creando un espacio dedicado exclusivamente a la interacción 
-con estos usuarios.
+Para los usuarios propuestos por la asignatura, se priorizará el contacto presencial, ya que permite establecer una relación más cercana y facilita una mejor comunicación y comprensión mutua. Sin embargo, en caso de que existan dificultades de horario u otras limitaciones, el contacto se mantendrá de forma telemática a través de WhatsApp y/o Discord, creando un espacio dedicado exclusivamente a la interacción con estos usuarios.
 
-En el caso de los usuarios contactados por nuestro equipo, también se dará 
-preferencia a un primer contacto presencial, con la intención de establecer una mejor 
-dinámica de comunicación. Idealmente, el resto de las interacciones también serían 
-presenciales, aunque entendemos que esto puede no ser siempre viable. Por ello, en 
-caso de ser necesario, el contacto se llevará a cabo mediante reuniones telemáticas, 
+En el caso de los usuarios contactados por nuestro equipo, también se dará preferencia a un primer contacto presencial, con la intención de establecer una mejor dinámica de comunicación. Idealmente, el resto de las interacciones también serían presenciales, aunque entendemos que esto puede no ser siempre viable. Por ello, en caso de ser necesario, el contacto se llevará a cabo mediante reuniones telemáticas, 
 garantizando así la continuidad del proceso de evaluación y feedback. 
 
 ### **Temas a tratar:**
 
 Con los usuarios propuestos se abordarán aspectos relacionados con las 
-funcionalidades del sistema, el diseño y sus implementaciones. Además, se les pedirá 
-que identifiquen posibles bugs o errores y que sugieran mejoras. Dado que estos 
-usuarios tienen un perfil más técnico, su feedback estará enfocado en el desarrollo y 
-optimización del servicio, proporcionando información valiosa para refinar tanto el 
-funcionamiento como la estructura del sistema. 
+funcionalidades del sistema, el diseño y sus implementaciones. Además, se les pedirá que identifiquen posibles bugs o errores y que sugieran mejoras. Dado que estos usuarios tienen un perfil más técnico, su feedback estará enfocado en el desarrollo y optimización del servicio, proporcionando información valiosa para refinar tanto el funcionamiento como la estructura del sistema. 
 
-Por otro lado, con los usuarios contactados directamente por el equipo se adoptará un 
-enfoque más orientado a la experiencia de usuario. En este caso, el objetivo principal 
-será evaluar el diseño de interfaces, comprobar si las funcionalidades cumplen con las 
-expectativas y analizar la usabilidad del sistema. 
-
-Se tratará de entender cómo perciben 
-el servicio, qué dificultades encuentran y qué aspectos podrían mejorarse para 
-optimizar la experiencia del usuario final. 
+Por otro lado, con los usuarios contactados directamente por el equipo se adoptará un enfoque más orientado a la experiencia de usuario. En este caso, el objetivo principal será evaluar el diseño de interfaces, comprobar si las funcionalidades cumplen con las expectativas y analizar la usabilidad del sistema. Se tratará de entender cómo perciben el servicio, qué dificultades encuentran y qué aspectos podrían mejorarse para optimizar la experiencia del usuario final. 
 
 ---
 
 ### **Calificación de usuarios pilotos:**
 
-Como parte de esta asignatura, contamos con usuarios piloto asignados, es decir, 
-compañeros de curso que deben ser calificados en cada entrega. Para asegurar que su 
-participación sea significativa y que su feedback resulte útil en el proceso de desarrollo 
-del software, aplicaremos un método de trabajo estructurado. 
+Como parte de esta asignatura, contamos con usuarios piloto asignados, es decir, compañeros de curso que deben ser calificados en cada entrega. Para asegurar que su participación sea significativa y que su feedback resulte útil en el proceso de desarrollo del software, aplicaremos un método de trabajo estructurado. 
 
-En primer lugar, identificaremos el momento óptimo para la recepción de feedback 
-antes de cada entrega de sprint. Para ello, elaboraremos un documento en Word o 
-Excel que recogerá todos los temas a tratar, con la opción de añadir aspectos 
-adicionales que los propios usuarios consideren relevantes. 
+En primer lugar, identificaremos el momento óptimo para la recepción de feedback antes de cada entrega de sprint. Para ello, elaboraremos un documento en Word o Excel que recogerá todos los temas a tratar, con la opción de añadir aspectos adicionales que los propios usuarios consideren relevantes. 
 
-Durante cada sesión de revisión con estos usuarios, se abordarán los puntos 
-establecidos en el documento. Su calificación dependerá de su nivel de implicación, la 
-información aportada y la calidad de su análisis. De este modo, garantizaremos que su 
-participación no solo contribuya al desarrollo del software, sino que también les haga 
-sentir parte activa y útil en el proceso. 
+Durante cada sesión de revisión con estos usuarios, se abordarán los puntos establecidos en el documento. Su calificación dependerá de su nivel de implicación, la información aportada y la calidad de su análisis. De este modo, garantizaremos que su participación no solo contribuya al desarrollo del software, sino que también les haga sentir parte activa y útil en el proceso. 
 
 ---
 
 ## **Usuarios Piloto contactados por el equipo:**
 
-Para la captación de usuarios piloto externos, tomaremos como referencia el perfil de 
-usuario objetivo de nuestro servicio y recopilaremos la información relevante de cada 
-participante. 
+Para la captación de usuarios piloto externos, tomaremos como referencia el perfil de usuario objetivo de nuestro servicio y recopilaremos la información relevante de cada participante.
+
 Como se ha mencionado previamente, se dará prioridad a un primer contacto 
-presencial, aunque también podrá realizarse de manera telemática en caso de ser 
-necesario. 
-Para cada usuario, almacenaremos información clave y sus respuestas sobre el 
-servicio, asegurando que cualquier dato privado permanezca protegido. La estructura 
-de la información recopilada será la siguiente: 
+presencial, aunque también podrá realizarse de manera telemática en caso de ser necesario. 
+
+Para cada usuario, almacenaremos información clave y sus respuestas sobre el servicio, asegurando que cualquier dato privado permanezca protegido. La estructura de la información recopilada será la siguiente: 
+
 - **Identificador (Id)**: Para preservar la privacidad, se utilizarán las iniciales de la 
-persona como identificador. En el caso de locales o empresas, se guardará el 
-nombre de la entidad. 
-- **Tipo de usuario (Usuario)**: Se clasificará según una característica principal 
-dentro de las siguientes categorías: 
+persona como identificador. En el caso de locales o empresas, se guardará el nombre de la entidad. 
+
+- **Tipo de usuario (Usuario)**: Se clasificará según una característica principal dentro de las siguientes categorías: 
   - Estudiante universitario 
   - Padre/Madre de familia 
   - Adolescente 
@@ -218,22 +175,15 @@ desarrollo del servicio.
 
 ## **Encuestas realizadas:**
 
-También hemos llevado a cabo encuestas de sondeo para evaluar el nivel de interés de 
-un mayor número de usuarios, incluso aquellos que no participarán directamente en el 
-futuro desarrollo de la aplicación. El objetivo de estas encuestas es obtener más 
-respuestas y comprender mejor el mercado en el que nos adentramos. 
+También hemos llevado a cabo encuestas de sondeo para evaluar el nivel de interés de un mayor número de usuarios, incluso aquellos que no participarán directamente en el futuro desarrollo de la aplicación. El objetivo de estas encuestas es obtener más respuestas y comprender mejor el mercado en el que nos adentramos. 
+
 Puedes acceder al formulario enviado a usuarios particulares en el siguiente enlace: 
 https://docs.google.com/forms/d/e/1FAIpQLSeonfdKmCMrva_PvfdzeFLKd3KHqU8MsKQhIqf00U1ltZhzzA/viewform 
 
 También realizamos encuestas a distintas empresas que consideramos 
-potencialmente interesadas en nuestro servicio. Aunque no todas mostraron interés, 
-tras analizar las respuestas y hablar personalmente con ellos llegamos a la conclusión 
-de que el mercado más atractivo para este servicio se encuentra en el sector de 
-herramientas y tecnología. 
+potencialmente interesadas en nuestro servicio. Aunque no todas mostraron interés, tras analizar las respuestas y hablar personalmente con ellos llegamos a la conclusión de que el mercado más atractivo para este servicio se encuentra en el sector de herramientas y tecnología. 
 
-Para recopilar más información y evaluar el interés de las empresas en nuestro 
-servicio, elaboramos un formulario específico dirigido a ellas. Puedes acceder al 
-formulario en el siguiente enlace: 
+Para recopilar más información y evaluar el interés de las empresas en nuestro servicio, elaboramos un formulario específico dirigido a ellas. Puedes acceder al formulario en el siguiente enlace: 
 https://docs.google.com/forms/d/e/1FAIpQLSemsOaozbiOWUVs7DQeos6pVKIAG3nW9-PdKjwnHpgDNL-cA/viewform?usp=header
 
 ---
@@ -251,9 +201,9 @@ Se recogerán datos personales únicamente con el consentimiento explícito de l
 usuarios piloto. La información recopilada incluirá: 
 - Datos identificativos (nombre o iniciales, edad, tipo de usuario). 
 - Preferencias y feedback respecto al servicio. 
-- Información sobre su disposición a alquilar o utilizar productos. 
-Los datos serán utilizados exclusivamente para evaluar la viabilidad del servicio, 
-mejorar la plataforma y optimizar la experiencia de usuario. 
+- Información sobre su disposición a alquilar o utilizar productos.
+
+Los datos serán utilizados exclusivamente para evaluar la viabilidad del servicio, mejorar la plataforma y optimizar la experiencia de usuario. 
 
 ### **2. Protección y Almacenamiento de Datos**
 

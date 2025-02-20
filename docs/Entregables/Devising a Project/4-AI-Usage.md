@@ -2,7 +2,7 @@
 
 ## Devising a project (DP) – G4
 
-**Repositorio:** [GitHub](https://github.com/ISPP-2425-G4/)
+**Repositorio:** [GitHub](https://github.com/ISPP-2425-G4/KB)
 
 **Fecha:** 20/02/2025
 
@@ -52,6 +52,9 @@ Este documento recoge las políticas de uso de las inteligencias artificiales ge
 En este apartado se desarrolla la política de uso de las inteligencias artificiales en el proyecto.
 
 ### Casos de uso
+
+Los casos de uso más detallados son los siguientes:
+
 #### Generación y optimización de código
 Utilizaremos asistentes de desarrollo basados en IA, como GitHub Copilot o ChatGPT, para generar fragmentos de código, optimizar funciones y sugerir mejoras en eficiencia y seguridad. Esto nos permitirá acelerar el proceso de programación y minimizar errores.
 
