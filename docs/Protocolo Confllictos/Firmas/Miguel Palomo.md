@@ -2,7 +2,7 @@
 
 
 <iframe 
-  src="/assets/files/Miguel%20Palomo%20Garcia-bd01dcf9cee3d0b9dc29d917300a5353.pdf" 
+  src="/assets/files/Miguel%20Palomo%20García-15a6e67d418df0eb59909cc35b139318.pdf" 
   width="100%" 
   height="600px" 
   style={{ border: "none" }} 
@@ -10,4 +10,4 @@
 
 
 
-[ENLACE AL DOC](../../../static/PDFs/Protocolo/Miguel%20Palomo%20Garcia.pdf)
+[ENLACE AL DOC](../../../static/PDFs/Protocolo/Miguel%20Palomo%20García.pdf)
