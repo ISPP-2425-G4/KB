@@ -89,7 +89,7 @@ const config = {
           },
           {to: 'docs/Actas/Intro-Actas', label: 'Actas', position: 'left'},
           {
-            href: 'https://github.com/ISPP-2425/',
+            href: 'https://github.com/ISPP-2425-G4',
             label: 'GitHub',
             position: 'right',
           },
