@@ -1,4 +1,4 @@
-# Roles del Equipo
+# 4-TEAM ROLES
 
 ## Devising a project (#DP) – G4  
 **20/02/2025**  
@@ -39,20 +39,20 @@ La distribución de roles es la siguiente:
 
 | Nombre | Subgrupo | Rol | Foto |
 |--------|----------|-----|------|
-| Álvaro Martín Muñoz | 1 | Desarrollador de Frontend y Analista | [Imagen](#) |
-| Marco Padilla Gómez | 1 | Desarrollador de Backend | [Imagen](#) |
-| Ignacio Naredo Bernardos | 1 | Desarrollador de Backend | [Imagen](#) |
-| Pablo Espinosa Naranjo | 1 | Desarrollador de Frontend | [Imagen](#) |
-| Alejandro Sevillano Barea | 1 | QA y secretario | [Imagen](#) |
-| Alexander Picón Garrote | 1 | Representante de subgrupo | [Imagen](#) |
-| Francisco Fernández Mota | 2 | Representante de subgrupo y desarrollador de Backend | [Imagen](#) |
-| Pablo Díaz Ordoñez | 2 | Desarrollador de Frontend | [Imagen](#) |
-| Santiago Rosado Raya | 2 | QA y secretario | [Imagen](#) |
-| Javier Nieto Vicioso | 2 | Desarrollador FullStack | [Imagen](#) |
-| Julia Sánchez Márquez | 2 | Desarrolladora y analista | [Imagen](#) |
-| David Blanco Mora | 2 | Desarrollador de Backend | [Imagen](#) |
-| Javier García Rodríguez | 3 | Jefe de proyecto y de subgrupo | [Imagen](#) |
-| Jesús Fernández Rodríguez | 3 | Analista | [Imagen](#) |
-| Luis Javier Periáñez Franco | 3 | Desarrollador de Frontend y secretario | [Imagen](#) |
-| Miguel González Ortiz | 3 | QA y desarrollador de Backend | [Imagen](#) |
-| Miguel Palomo García | 3 | Desarrollador FullStack | [Imagen](#) |
+| Álvaro Martín Muñoz | 1 | Desarrollador de Frontend y Analista | ![AlvaroMartin](../../../static/img/fotosRoles/AlvaroMartin.png) |
+| Marco Padilla Gómez | 1 | Desarrollador de Backend | ![MarcoPadilla](../../../static/img/fotosRoles/MarcoPadilla.png) |
+| Ignacio Naredo Bernardos | 1 | Desarrollador de Backend | ![IgnacioNaredo](../../../static/img/fotosRoles/IgnacioNaredo.jpg) |
+| Pablo Espinosa Naranjo | 1 | Desarrollador de Frontend | ![PabloEspinosa](../../../static/img/fotosRoles/PabloEspinosa.png) |
+| Alejandro Sevillano Barea | 1 | QA y secretario | ![AlejandroSevillano](../../../static/img/fotosRoles/AlejandroSevillano.png) |
+| Alexander Picón Garrote | 1 | Representante de subgrupo | ![AlexanderPicon](../../../static/img/fotosRoles/AlexanderPicon.png) |
+| Francisco Fernández Mota | 2 | Representante de subgrupo y desarrollador de Backend | ![FranciscoFernandez](../../../static/img/fotosRoles/FranciscoFernandez.jpg) |
+| Pablo Díaz Ordoñez | 2 | Desarrollador de Frontend | ![PabloDiaz](../../../static/img/fotosRoles/PaabloDiaz.jpg) |
+| Santiago Rosado Raya | 2 | QA y secretario | ![SantiagoRosado](../../../static/img/fotosRoles/SantiagoRosado.jpg) |
+| Javier Nieto Vicioso | 2 | Desarrollador FullStack | ![JavierNieto](../../../static/img/fotosRoles/JavierNieto.jpg) |
+| Julia Sánchez Márquez | 2 | Desarrolladora y analista | ![JuliaSanchez](../../../static/img/fotosRoles/JuliaSanchez.jpg) |
+| David Blanco Mora | 2 | Desarrollador de Backend | ![DavidBlanco](../../../static/img/fotosRoles/DavidBlanco.jpg) |
+| Javier García Rodríguez | 3 | Jefe de proyecto y de subgrupo | ![JavierGarcia](../../../static/img/fotosRoles/JavierGarcia.jpg) |
+| Jesús Fernández Rodríguez | 3 | Analista | ![JesusFernandez](../../../static/img/fotosRoles/JesusFernandez.png) |
+| Luis Javier Periáñez Franco | 3 | Desarrollador de Frontend y secretario | ![LuisPerianez](../../../static/img/fotosRoles/LuisPerianez.jpg) |
+| Miguel González Ortiz | 3 | QA y desarrollador de Backend | ![MiguelGonzalez](../../../static/img/fotosRoles/MiguelGonzalez.jpg) |
+| Miguel Palomo García | 3 | Desarrollador FullStack | ![MiguelPalomo](../../../static/img/fotosRoles/MiguelPalomo.jpg) |
