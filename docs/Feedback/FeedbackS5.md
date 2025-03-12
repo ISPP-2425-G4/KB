@@ -1,7 +1,29 @@
 # Feedback Semana 5
 
+## Feedback de otros grupos
 
-## Feedback relacionado con la presentación
+- Hacer un buscador en la base de conocimientos comun.
+- Tener todos la documentacion en md.
+- Presentarse antes de exponer.
+- El registro y el inicio de sesión no son relevantes para la demo.
+- Demo no visible desde el final de la clase.
+- Usar métricas optimas para la productividad, el número de commits no es una buena referencia.
+- Tener una evolución de los problemas, desde que se detectan hasta que se resuelven.
+- Evitar hablar mucho sin apoyo visual.
+- Killer opener relacionado con la temática de la aplicación.
+- La presentación debe ser autocontenida.
+- Evitar tener demasiadas diapositivas.
+- Evitar ser informales en videos publicitarios y que esten enfocados al público de la aplicación, no a los asistentes de la clase.
+- Evitar fuentes extrañas que puedan dificultar la lectura de la presentación.
+- Usar k o m, para los miles.
+- Las diapositivas no es un apoyo, es un refuerzo del speech.
+- Si el chatgpt te ahora 4 horas, invierte esas 4 horas en otra cosa.
+- Dar mas importancia al "in review" que al "done".
+- Ser responsables con el burnup, tener bien definidas las task antes de empezar el sprint.
+
+## Feedback propio
+
+### Feedback relacionado con la presentación
 
 - Alumnos y profesores coincidieron en que la presentación tenía demasiado contenido.
 - De la mano del anterior punto, intentar hacer una presentacion mas tranquila y sin correr.
@@ -19,15 +41,15 @@
 - La retrospectiva debe tener un gran peso en la presentación.
 - Hay que enlazar, si procede, los problemas que surjan con los riesgos previstos.
 - Añadir titulo a la diapositiva 20.
-- Poner el porcentaje de alucinaciones de la ia
+- Poner el porcentaje de alucinaciones de la IA.
 
-## Feedback relacionado con el desarrollo del proyecto
+### Feedback relacionado con el desarrollo del proyecto
 
 - Parametros para el modelo cuantitativo.
 - ¿Teneis alguna forma de saber que el coordinador coordina correctamente?
 - Reestructurar las reuniones para evitar tiempo vacio en clockify
 
-## Tareas que realizar durante esta semana:
+### Tareas que realizar durante esta semana:
 
 - Hay que crear parametros, de manera que la gente pueda saber que tiene que hacer para tener un buen rendimiento en el modelo cuantitativo.
 - Establecer un criterio base para que los coordinadores sigan el mismo criterio de manera consensuada.
