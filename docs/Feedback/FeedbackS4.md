@@ -1,6 +1,25 @@
 # Feedback Semana 4
 
-## Feedback relacionado con la presentación
+## Feedback de otros grupos
+
+- Tener una tabla de competidores clara, que te permita entenderla sin escuchar la presentación.
+- Asignar roles en la presentación, no solo poner fotografías.
+- Innovar en el inicio de la presentación.
+- Traer practicada la presentación.
+- Tener los usuarios piloto bien difinidos, X usuarios son empresas, Y son particulares.
+- Enseñar conclusiones del uso de la IA, no la metodología que se va a seguir.
+- Revisar el video propuesto para la vocalización.
+- Intentar buscar mas usuarios piloto.
+- Usar k o m para números grandes.
+- Explicar como se gestionara el trato con los usuarios piloto.
+- Revisar fotografías para que no esten distorsionadas.
+- Numerar las diapositivas para facilitar la referenciación.
+- Tener una landing page.
+- Buscar usuarios piloto acorde a la tematica de la aplicación.
+
+## Feedback propio
+
+### Feedback relacionado con la presentación
 - Empleamos buen tono de voz.
 - Usamos ejemplos cotidianos que ayudan a que se entienda nuestra idea.
 - Presentación fluida y con una buena gama de colores.
@@ -8,14 +27,14 @@
 - Inicio soso, necesitamos hacer algo tipo teatro.
 - La landing page debe ir al principio de la presentación.
 
-## Feedback relacionado con el desarrollo del proyecto
+### Feedback relacionado con el desarrollo del proyecto
 - Es bueno tener el máximo de usuarios pilotos posibles.
 - Debemos ajustar mejor el tema de pagos semanales, únicos y anuales.
 - Aclarar si anuncio de alquiler es core.
 
 ---
 
-## Tareas a realizar durante esta semana:
+### Tareas a realizar durante esta semana:
 
 1. Reloj de avance del proyecto
 - Cuánto tiempo hemos invertido de lo esperado hasta final de curso.
