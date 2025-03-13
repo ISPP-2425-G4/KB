@@ -3,8 +3,10 @@
 ## Borroo - G4
 ## Sprint 1 (S1)
 
-**Repositorio:** [GitHub](https://github.com/ISPP-2425-G4/borroo)
+**Repositorio:** [Borroo](https://github.com/ISPP-2425-G4/borroo)
+
 **Base de conocimientos:** [BorrooKB](https://borrookb.netlify.app/)
+
 **Fecha:** 11/03/2025
 
 ### Miembros:
@@ -25,6 +27,15 @@
 - Santiago Rosado Raya
 - Julia Sánchez Márquez
 - Alejandro Sevillano Barea
+
+## **Histórico de modificaciones**
+
+| Fecha      | Versión | Realizada por   | Descripción de los cambios |
+| ---------- | ------- | --------------- | -------------------------- |
+| 20-02-2025 | v1.0    | Marco Padilla Gómez | Creación del documento |
+| 20-02-2025 | v1.1    | Todos los miembros | Añadir datos sobre el trabajo realizado en el DP |
+| 11-03-2025 | v2.0    | Marco Padilla Gómez | Actualización del documento para el S1 e historico de modificaciones añadido |
+| 13-03-2025 | v2.1    | Todos los miembros | Añadir datos sobre el trabajo realizado en el S1 |
 
 ## DP
 
@@ -659,6 +670,7 @@
 </table>
 
 ### Naredo Bernardos, Ignacio
+
 <table>
   <tr>
     <th>Tarea</th>
@@ -676,11 +688,28 @@
   </tr>
   <tr>
     <td>Revisión</td>
-    <td>3 hora y 38 minutos</td>
+    <td>3 horas y 38 minutos</td>
   </tr>
   <tr>
     <td>Uso de la IA</td>
     <td>21 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Trabajo</td>
+    <td>Conexión BD</td>
+    <td>4 horas y 1 minuto</td>
+  </tr>
+  <tr>
+    <td>Método búsqueda</td>
+    <td>1 hora y 22 minutos</td>
+  </tr>
+  <tr>
+    <td>Filtro categorías</td>
+    <td>2 horas y 10 minutos</td>
+  </tr>
+  <tr>
+    <td>Despliegue app engine</td>
+    <td>2 horas y 21 minutos</td>
   </tr>
   <tr>
     <td rowspan="2">Clases</td>
@@ -692,19 +721,31 @@
     <td>3 horas y 50 minutos</td>
   </tr>
   <tr>
+    <td>Clase 21/02</td>
+    <td>4 horas</td>
+  </tr>
+  <tr>
+    <td>Clase 07/03</td>
+    <td>4 horas</td>
+  </tr>
+  <tr>
     <td>Reuniones</td>
     <td>Reunión de grupo</td>
     <td>5 horas y 2 minutos</td>
   </tr>
   <tr>
-	  <td>Docusaurus</td>
+    <td>Docusaurus</td>
     <td>Creación y subida docs Docusaurus</td>
     <td>6 horas y 56 minutos</td>
   </tr>
   <tr>
-    <td >Pildoras teóricas</td>
-    <td>Ver videos de pildoras</td>
+    <td rowspan="2">Píldoras teóricas</td>
+    <td>Ver videos de píldoras</td>
     <td>1 hora y 10 minutos</td>
+  </tr>
+  <tr>
+    <td>Ver videos de píldoras</td>
+    <td>2 horas y 24 minutos</td>
   </tr>
 </table>
 
@@ -1381,22 +1422,1325 @@
     <th>Detalles de la actividad</th>
     <th>Tiempo</th>
   </tr>
+  <tr>
+    <td rowspan="8">Trabajo</td>
+    <td>Doc: Comunicación usuarios piloto</td>
+    <td>1h48min</td>
+  </tr>
+  <tr>
+    <td>Planteamiento de test de tomar alquilado un objeto</td>
+    <td>1h5min</td>
+  </tr>
+  <tr>
+    <td>Modificación modelo de rendimiento</td>
+    <td>1h25min</td>
+  </tr>
+  <tr>
+    <td>Despliegue</td>
+    <td>2h37min</td>
+  </tr>
+  <tr>
+    <td>tests Tomar alquilado un objeto</td>
+    <td>5h12min</td>
+  </tr>
+  <tr>
+    <td>Arreglo: tests Tomar alquilado un objeto</td>
+    <td>47min</td>
+  </tr>
+  <tr>
+    <td>Píldoras teóricas</td>
+    <td>1h12min</td>
+  </tr>
+  <tr>
+    <td>Doc: revision.md</td>
+    <td>3h50min</td>
+  </tr>
+  <tr>
+    <td rowspan="1">Reuniones</td>
+    <td>Reunión 09/03</td>
+    <td>1h12min</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 07/03</td>
+    <td>3h50min</td>
+  </tr>
+  <tr>
+    <td>Clase 21/02</td>
+    <td>3h50min</td>
+  </tr>
 </table>
 
 ### Díaz Ordoñez, Pablo
 
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Trabajo de código</td>
+    <td>Preparar entorno de trabajo</td>
+    <td>22 minutos</td>
+  </tr>
+  <tr>
+    <td>Informarme sobre despliegue para intentar llevarlo a cabo e intento sin éxito</td>
+    <td>1 hora y 43 minutos</td>
+  </tr>
+  <tr>
+    <td>Crear workflow de commits</td>
+    <td>1 hora y 47 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="14">Trabajo de documentación</td>
+    <td>Realizar UML de la aplicación</td>
+    <td>24 minutos</td>
+  </tr>
+  <tr>
+    <td>Realizar plan de gestión de requisitos y registro de requisitos</td>
+    <td>1 hora y 26 minutos</td>
+  </tr>
+  <tr>
+    <td>Realizar registro de requisitos</td>
+    <td>1 hora y 57 minutos</td>
+  </tr>
+  <tr>
+    <td>Completar y revisar registro de requisitos y plan de gestión de requisitos</td>
+    <td>57 minutos</td>
+  </tr>
+  <tr>
+    <td>Registrar y documentar riesgos del sprint 1</td>
+    <td>1 hora y 41 minutos</td>
+  </tr>
+  <tr>
+    <td>Pasar commitment agreements a formato .md</td>
+    <td>1 hora y 4 minutos</td>
+  </tr>
+  <tr>
+    <td>Píldoras teóricas (2 sesiones- 05a y 05b)</td>
+    <td>1 hora y 14 minutos</td>
+  </tr>
+  <tr>
+    <td>Pasar commitment agreements a formato .md, añadir sus fotos</td>
+    <td>27 minutos</td>
+  </tr>
+  <tr>
+    <td>Pasar report de uso de la IA a formato .md</td>
+    <td>29 minutos</td>
+  </tr>
+  <tr>
+    <td>Evaluación y modelo de rendimiento en formato .md, añadir nueva métrica de medida de jefes de subgrupo</td>
+    <td>1 hora y 22 minutos</td>
+  </tr>
+  <tr>
+    <td>Pasar los protocolos de gestión de conflictos a formato .md</td>
+    <td>57 minutos</td>
+  </tr>
+  <tr>
+    <td>Rellenar mi parte del performanceEvaluation del Sprint 1</td>
+    <td>15 minutos</td>
+  </tr>
+  <tr>
+    <td>Actualizar modelo de rendimiento</td>
+    <td>25 minutos</td>
+  </tr>
+  <tr>
+    <td>Rellenar mi parte del timeEffort del Sprint 1</td>
+    <td>20 minutos</td>
+  </tr>
+  <tr>
+    <td>Reuniones</td>
+    <td>Reunión 09/03/2025 - Sprint 1</td>
+    <td>1 hora y 9 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 21/02/25</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07/03/25</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Enlace Clockify</td>
+    <td colspan="2"><a href="https://app.clockify.me/shared/67d3345bef0d12419bc1c07e" target="_blank">Clockify</a></td>
+  </tr>
+</table>
+
+
+
+
 ### Espinosa Naranjo, Pablo
+
+<table>
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Detalles de la actividad</th>
+      <th>Tiempo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Trabajo</td>
+      <td>Union backend y frontend</td>
+      <td>2h27min</td>
+    </tr>
+    <tr>
+      <td>Desarrollo frontend (formación react, filtrado y busqueda, estilo, formación “responsive”) </td>
+      <td>11h32min</td>
+    </tr>
+    <tr>
+      <td>Despliegue</td>
+      <td>4h57min</td>
+    </tr>
+    <tr>
+      <td>Doc: revision.md</td>
+      <td>3h50min</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Reuniones</td>
+      <td>Reunión 09/03</td>
+      <td>1h30min</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Clases</td>
+      <td>Clase 07/03</td>
+      <td>3h50min</td>
+    </tr>
+    <tr>
+      <td>Clase 21/02</td>
+      <td>3h50min</td>
+    </tr>
+    <tr>
+      <td rowspan="1">Píldoras</td>
+      <td>Sesión 5a y 5b</td>
+      <td>1h16min</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Fernández Rodríguez, Jesús
+
+<table>
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Detalles de la actividad</th>
+      <th>Tiempo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6">Trabajo</td>
+      <td>Workflows de CI</td>
+      <td>2 horas 51 minutos</td>
+    </tr>
+    <tr>
+      <td>Entidad item</td>
+      <td>54 minutos</td>
+    </tr>
+    <tr>
+      <td>Despliegue AppEngine</td>
+      <td>8 horas 25 minutos</td>
+    </tr>
+    <tr>
+      <td>Bugs y fixes</td>
+      <td>6 horas</td>
+    </tr>
+    <tr>
+      <td>Implementación backend item</td>
+      <td>2 horas 29 minutos</td>
+    </tr>
+    <tr>
+      <td>Pair programming</td>
+      <td colspan="2">1 hora 30 minutos</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Reuniones</td>
+      <td>Reunión 09/03/2025</td>
+      <td>1 hora 10 minutos</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td rowspan="2">Clase</td>
+      <td>Clase 21/2/25</td>
+      <td>3 horas 50 minutos</td>
+    </tr>
+    <tr>
+      <td>Clase 7/3/25</td>
+      <td>3 horas 50 minutos</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Fernández Mota, Francisco
+
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="7">Trabajo</td>
+    <td>UML</td>
+    <td>6 horas y 23 minutos</td>
+  </tr>
+  <tr>
+    <td>Gestión de tareas y organización con PM y GMs</td>
+    <td>4 horas y 40 minutos</td>
+  </tr>
+  <tr>
+    <td>Reparto de tareas del subgrupo</td>
+    <td>27 minutos</td>
+  </tr>
+  <tr>
+    <td>Pull Requests</td>
+    <td>27 minutos</td>
+  </tr>
+  <tr>
+    <td>Seeders</td>
+    <td>1 hora y 29 minutos</td>
+  </tr>
+  <tr>
+    <td>Comunicación con usuarios piloto a formato markdown</td>
+    <td>25 minutos</td>
+  </tr>
+  <tr>
+    <td>Pair programming de validaciones y control de errores</td>
+    <td>2 horas y 31 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Píldoras teóricas</td>
+    <td>Session 05a</td>
+    <td>27 minutos</td>
+  </tr>
+  <tr>
+    <td>Session 05b</td>
+    <td>37 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Reuniones</td>
+    <td>Reunión 22/2/25</td>
+    <td>15 minutos</td>
+  </tr>
+  <tr>
+    <td>Reunión 10/3/25</td>
+    <td>40 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clase</td>
+    <td>Clase 21/2/25</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 7/3/25</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+</table>
+
+
 ### García Rodríguez, Javier
+
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Trabajo</td>
+    <td>Preparación presentación</td>
+    <td>7 horas</td>
+  </tr>
+  <tr>
+    <td>Gestión de tareas y organización del proyecto durante el S1</td>
+    <td>13 horas y 17 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clase</td>
+    <td>Clase 21/2/25</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 7/3/25</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Reuniones</td>
+    <td>Reunión 22/2/25</td>
+    <td>15 minutos</td>
+  </tr>
+  <tr>
+    <td>Reunión 09/03/2025</td>
+    <td>1 hora y 12 minutos</td>
+  </tr>
+  <tr>
+    <td>Reunión representantes</td>
+    <td>33 minutos</td>
+  </tr>
+  <tr>
+    <td>Píldoras teóricas</td>
+    <td>Sesión 05a y 05b</td>
+    <td>1 hora y 13 minutos</td>
+  </tr>
+</table>
+
+
 ### González Ortiz, Miguel
+
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="9">Trabajo</td>
+    <td>Implementar entidad usuario y desarrollo de sus operaciones CRUD</td>
+    <td>2 horas y 16 minutos</td>
+  </tr>
+  <tr>
+    <td>Implementación login y registro de usuarios</td>
+    <td>2 horas y 12 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglando errores con la entidad usuario para realizar las pruebas unitarias CRUD de usuarios</td>
+    <td>3 horas y 34 minutos</td>
+  </tr>
+  <tr>
+    <td>Pruebas unitarias CRUD de usuarios</td>
+    <td>2 horas y 24 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglando bug del login</td>
+    <td>28 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglando pruebas unitarias de actualización y eliminación de usuarios</td>
+    <td>2 horas y 5 minutos</td>
+  </tr>
+  <tr>
+    <td>Pruebas unitarias CRUD de objetos</td>
+    <td>1 hora y 54 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglando test de update objetos y ayudando al despliegue</td>
+    <td>1 hora y 2 minutos</td>
+  </tr>
+  <tr>
+    <td>Buscando errores de validación en operaciones con usuarios y backend</td>
+    <td>3 horas y 53 minutos</td>
+  </tr>
+  <tr>
+    <td>Reuniones</td>
+    <td>Reunión 09/03/2025</td>
+    <td>1 hora y 13 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 21-02-25</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07-03-25</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+</table>
+
 ### Martin Muñoz, Álvaro
+<table border="1">
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Trabajo</td>
+    <td>Inicializando estructura frontend</td>
+    <td>1h09min</td>
+  </tr>
+  <tr>
+    <td>Enlazar backend con frontend</td>
+    <td>1h01min39s</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Trabajo</td>
+    <td>Enlazar backend con frontend</td>
+    <td>1h01m42s</td>
+  </tr>
+  <tr>
+    <td>Comprobar funcionamiento conexión backend-frontend</td>
+    <td>47min</td>
+  </tr>
+  <tr>
+    <td>Guía de implementación</td>
+    <td>1h08min</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Guía de implementación</td>
+    <td>34min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Buscar plantilla react</td>
+    <td>41min11s</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Arreglar error en la bd</td>
+    <td>40min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Implementar prototipo menu principal</td>
+    <td>1h07min</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Implementar prototipo menu principal</td>
+    <td>2h17min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Arreglo de bug en las rutas del backend</td>
+    <td>40min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Comprobar funcionamiento jwt</td>
+    <td>31min44s</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Arreglos frontend menu principal</td>
+    <td>3h12min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Integración al develop y ajustes de Layout.jsx</td>
+    <td>1h25min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Validación formularios frontend</td>
+    <td>47min47s</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Implementacion navbar en todas las pantallas, validaciones formulario y obligar login para crear objeto</td>
+    <td>1h31min</td>
+  </tr>
+  <tr>
+    <td>Trabajo</td>
+    <td>Arreglar error jwt</td>
+    <td>49min30s</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Píldoras Teóricas</td>
+    <td>Sesión 05a</td>
+    <td>27min</td>
+  </tr>
+  <tr>
+    <td>Sesión 05b</td>
+    <td>47min</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Reuniones</td>
+    <td>09/03/2025</td>
+    <td>1h12min</td>
+  </tr>
+  <tr>
+    <td>21/02/2025</td>
+    <td>3h50min</td>
+  </tr>
+  <tr>
+    <td>7/03/2025</td>
+    <td>3h50min</td>
+  </tr>
+</table>
+
 ### Naredo Bernardos, Ignacio
+
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="8">Trabajo</td>
+    <td>Conexión BBDD</td>
+    <td>3 horas y 35 minutos</td>
+  </tr>
+  <tr>
+    <td>Filtro de categorías</td>
+    <td>2 horas y 10 minutos</td>
+  </tr>
+  <tr>
+    <td>Estructura de backend</td>
+    <td>1 hora y 42 minutos</td>
+  </tr>
+  <tr>
+    <td>Método búsqueda</td>
+    <td>1 hora y 11 minutos</td>
+  </tr>
+  <tr>
+    <td>Guía Conexión BBDD</td>
+    <td>28 minutos</td>
+  </tr>
+  <tr>
+    <td>Despliegue app engine</td>
+    <td>2 horas y 21 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglo fallos y gestión equipo</td>
+    <td>1 hora y 39 minutos</td>
+  </tr>
+  <tr>
+    <td>Inicio de modelado de datos</td>
+    <td>2 horas y 10 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 21/02</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07/03</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+  <tr>
+    <td>Reuniones</td>
+    <td>Reunión</td>
+    <td>1 hora y 11 minutos</td>
+  </tr>
+  <tr>
+    <td>Docusaurus</td>
+    <td>Base de conocimiento</td>
+    <td>1 hora y 25 minutos</td>
+  </tr>
+  <tr>
+    <td>Píldoras teóricas</td>
+    <td>Ver videos de píldoras</td>
+    <td>1 hora y 13 minutos</td>
+  </tr>
+</table>
+
+
 ### Nieto Vicioso, Javier
+<table border="1">
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Detalles de la actividad</th>
+      <th>Tiempo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">Código</td>
+      <td>Configurando el entorno en local, configurando el backend con mariaDB (05/03/2025)</td>
+      <td>29 minutos</td>
+    </tr>
+    <tr>
+      <td>Acabando de configurar el entorno en local (frontend + backend) (06/03/2025)</td>
+      <td>16 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando la aplicación y creando una issue de bug y arreglándolo (07/03/2025)</td>
+      <td>51 minutos</td>
+    </tr>
+    <tr>
+      <td>Visualizando y entendiendo el código de backend sobre los usuarios y los objetos y probando a asociar un item a un usuario cuando se crea el item (09/03/2025)</td>
+      <td>1 hora 4 minutos</td>
+    </tr>
+    <tr>
+      <td>Mejora visual de la página de detalles de un producto (09/03/2025)</td>
+      <td>34 minutos</td>
+    </tr>
+    <tr>
+      <td>Mejorando la vista de detalles de un producto con la primera versión del calendario y resolviendo conflictos y entendiendo nuevo código subido (09/03/2025)</td>
+      <td>52 minutos</td>
+    </tr>
+    <tr>
+      <td>Mejora visual de la vista de los detalles de un objeto (09/03/2025)</td>
+      <td>1 hora 6 minutos</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Documentación</td>
+      <td>Realizando el plan de gestión de los requisitos e iniciando el registro de requisitos (24/02/2025)</td>
+      <td>1 hora y 22 minutos</td>
+    </tr>
+    <tr>
+      <td>Añadiendo más requisitos funcionales y no funcionales al Registro de requisitos con sus criterios de aceptación, prioridad e interesados (25/02/2025)</td>
+      <td>58 minutos</td>
+    </tr>
+    <tr>
+      <td>Añadiendo todos los requisitos funcionales faltantes, menos los de administración (26/02/2025)</td>
+      <td>1 hora y 11 minutos</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Píldoras teóricas</td>
+      <td>Píldora 5a</td>
+      <td>26 minutos</td>
+    </tr>
+    <tr>
+      <td>Píldora 5b</td>
+      <td>46 minutos</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Clases</td>
+      <td>Clase 21/02</td>
+      <td>3 horas y 50 minutos</td>
+    </tr>
+    <tr>
+      <td>Clase 07/03</td>
+      <td>3 horas y 50 minutos</td>
+    </tr>
+    <tr>
+      <td>Reuniones</td>
+      <td>Reunión 09/03/2025</td>
+      <td>1 hora y 11 minutos</td>
+    </tr>
+    <tr>
+      <td rowspan="22">Código</td>
+      <td>Creación de la primera versión de solicitar el alquiler de un objeto (sólo estética) (10/03/2025)</td>
+      <td>38 minutos</td>
+    </tr>
+    <tr>
+      <td>Creando un modal de confirmación de la solicitud personalizado para la app e implementándolo en la solicitud de objeto (10/03/2025)</td>
+      <td>47 minutos</td>
+    </tr>
+    <tr>
+      <td>Cambiado la forma en la que se muestra un item no existente, comprobando todo el código de los detalles de un objeto y realizando la PR (10/03/2025)</td>
+      <td>38 minutos</td>
+    </tr>
+    <tr>
+      <td>Haciendo las capturas de frontend para los usuarios piloto con objetos de prueba (12/03/2025)</td>
+      <td>20 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando la app en develop para comprobar que todo funciona correctamente (12/03/2025)</td>
+      <td>26 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando y viendo la funcionalidad de listado de objetos para corregir fallos (12/03/2025)</td>
+      <td>19 minutos</td>
+    </tr>
+    <tr>
+      <td>Corrigiendo algunas funcionalidades del listado de objetos (descripción, link provisional objetos y probando implementar imágenes (no implementado todavía)) (12/03/2025)</td>
+      <td>57 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando el backend de las solicitudes de objeto (12/03/2025)</td>
+      <td>30 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando backend y buscando un error de la base de datos (Error en databases de settings.py) (12/03/2025)</td>
+      <td>1 hora</td>
+    </tr>
+    <tr>
+      <td>Configurando la base de datos y probando el backend (12/03/2025)</td>
+      <td>22 minutos</td>
+    </tr>
+    <tr>
+      <td>Entendiendo y probando el backend y la autenticación mediante peticiones de postman y django rest framework (13/03/2025)</td>
+      <td>33 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando con postman la autenticación con Jwt, e intentando hacer que funcione esta autenticación con "Bearer" mediante varios métodos sin haber sido capaz (13/03/2025)</td>
+      <td>2 horas 26 minutos</td>
+    </tr>
+    <tr>
+      <td>Probando la autenticación con jwt para ver cómo funciona, con postman, jwt.io y modificando el código en local (13/03/2025)</td>
+      <td>41 minutos</td>
+    </tr>
+    <tr>
+      <td>Resolviendo errores de frontend nuevos y probando de nuevo la autenticación de la app que sigue sin funcionar con jwt (13/03/2025)</td>
+      <td>29 minutos</td>
+    </tr>
+    <tr>
+      <td>Arreglando la conexión frontend-backend de la solicitud de un objeto (13/03/2025)</td>
+      <td>1 hora 51 minutos</td>
+    </tr>
+  </tbody>
+</table>
 ### Padilla Gómez, Marco
+<table>
+    <thead>
+        <tr>
+            <th>Tarea</th>
+            <th>Detalles de la actividad</th>
+            <th>Tiempo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="8">Código</td>
+            <td>Github</td>
+            <td>49 minutos</td>
+        </tr>
+        <tr>
+            <td>Modelos de Item y price</td>
+            <td>2 horas y 25 minutos</td>
+        </tr>
+        <tr>
+            <td>Bug de los modelos de Item y Price</td>
+            <td>19 minutos</td>
+        </tr>
+        <tr>
+            <td>Script para prueba de modelos</td>
+            <td>1 hora y 18 minutos</td>
+        </tr>
+        <tr>
+            <td>Fix flake8</td>
+            <td>26 minutos</td>
+        </tr>
+        <tr>
+            <td>Filtros</td>
+            <td>14 minutos</td>
+        </tr>
+        <tr>
+            <td>Paginación</td>
+            <td>35 minutos</td>
+        </tr>
+	      <tr>
+            <td>Actualizar el requirements</td>
+            <td>31 minutos</td>
+        </tr>
+        <tr>
+            <td rowspan="13">Documentación</td>
+	        <td>Añadir feedback en la base de conocimientos común</td>
+            <td>1 hora y 2 minutos</td>
+        </tr>
+        <tr>
+            <td>Añadir feedback semana 5 en nuestra kb</td>
+            <td>12 minutos</td>
+        </tr>
+        <tr>
+            <td>Realización del KBreport</td>
+            <td>43 minutos</td>
+        </tr>
+        <tr>
+            <td>Actualizar el performance Evaluation para S1</td>
+            <td>11 minutos</td>
+        </tr>
+        <tr>
+            <td>Pasar el timeEffort de pdf a md</td>
+            <td>1 hora y 3 minutos</td>
+        </tr>
+        <tr>
+            <td>Preparación de los demás documentos de la entrega</td>
+            <td>15 minutos</td>
+        </tr>
+        <tr>
+            <td>Subir el kbreport</td>
+            <td>6 minutos</td>
+        </tr>
+        <tr>
+            <td>Añadir feedback general de la semana 4 y 5 a nuestra base de datos propia</td>
+            <td>33 minutos</td>
+        </tr>
+        <tr>
+            <td>Subir plantilla del timeEffort</td>
+            <td>4 minutos</td>
+        </tr>
+        <tr>
+            <td>Revisión y añadir histórico de modificaciones a los documentos</td>
+            <td>2 horas y 10 minutos</td>
+        </tr>
+        <tr>
+            <td>Rellenar el timeEffort y el performance evaluation</td>
+            <td>30 minutos</td>
+        </tr>
+        <tr>
+            <td>Revision de PR de usuarios pilotos</td>
+            <td>8 minutos</td>
+        </tr>
+        <tr>
+            <td >Subir documentos a la KB</td>
+            <td>32 minutos</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Píldoras teóricas</td>
+            <td>Píldora 5a</td>
+            <td>26 minutos</td>
+        </tr>
+        <tr>
+            <td>Píldora 5b</td>
+            <td>46 minutos</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Clases</td>
+            <td>Clase 21/02</td>
+            <td>3 horas y 50 minutos</td>
+        </tr>
+        <tr>
+            <td>Clase 07/03</td>
+            <td>3 horas y 50 minutos</td>
+        </tr>
+        <tr>
+            <td>Enlace Clockify</td>
+            <td colspan="2"><a href="https://app.clockify.me/shared/67d33c1706a063047edaf675" target="_blank">Clockify</a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Palomo García, Miguel
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="5">Trabajo</td>
+    <td>Desarrollo frontend de Registro</td>
+    <td>2 horas y 30 minutos</td>
+  </tr>
+  <tr>
+    <td>Desarrollo frontend de Inicio sesión</td>
+    <td>2 horas 31 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglo backend/frontend inicio de sesión registro</td>
+    <td>10 minutos</td>
+  </tr>
+  <tr>
+    <td>Presentación</td>
+    <td>12 horas</td>
+  </tr>
+  <tr>
+    <td>Implementación JWT</td>
+    <td>2 horas y 19 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 21-02-25</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07-03-25</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+</table>
+
 ### Periañez Franco, Luis Javier
-### Picón Garrote, Alexander
+
+<table>
+  <tr>
+    <th>Categoría</th>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="6">Trabajo</td>
+    <td>Implementación de la estructura base del frontend</td>
+    <td>Creación de la navbar y organización de la arquitectura del proyecto</td>
+    <td>2 horas 45 minutos</td>
+  </tr>
+  <tr>
+    <td>Desarrollo frontend del CRUD de objetos</td>
+    <td>Implementación de las operaciones de creación, actualización y eliminación</td>
+    <td>6 horas</td>
+  </tr>
+  <tr>
+    <td>Desarrollo frontend de implementación de imágenes</td>
+    <td>Integración de imágenes para mejorar la visualización y asociación con el usuario</td>
+    <td>6 horas</td>
+  </tr>
+  <tr>
+    <td>Desarrollo frontend del User</td>
+    <td>Implementación de las funcionalidades relacionadas con el usuario</td>
+    <td>1 hora 30 minutos</td>
+  </tr>
+  <tr>
+    <td>Corrección de errores y mejoras</td>
+    <td>Solución de problemas surgidos durante el desarrollo</td>
+    <td>2 horas</td>
+  </tr>
+  <tr>
+    <td>Asistencia a reuniones</td>
+    <td>Participación en reuniones de seguimiento y planificación</td>
+    <td>2 horas</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+  </tr>
+  <tr>
+    <td>Clase 07-03-25</td>
+    <td>Asistencia y participación en la clase del 7 de marzo</td>
+    <td>3 horas 40 minutos</td>
+  </tr>
+</table>
+
+### Picón Garrote, Alexander  
+
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="12">Trabajo de gestión, organización y resolución</td>
+    <td>Implementación y configuración Zenhub</td>
+    <td>1 hora y 43 minutos</td>
+  </tr>
+  <tr>
+    <td>Planificación y creación de issues Zenhub subgrupo 1 - semana 1</td>
+    <td>57 minutos</td>
+  </tr>
+  <tr>
+    <td>Planificación y creación de issues Zenhub subgrupo 1 - semana 2</td>
+    <td>48 minutos</td>
+  </tr>
+  <tr>
+    <td>Planificación y creación de issues Zenhub subgrupo 1 - semana 3 y arreglo semana 2</td>
+    <td>36 minutos</td>
+  </tr>
+  <tr>
+    <td>Reajuste de issues Zenhub</td>
+    <td>43 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisión y corrección tareas subgrupo 1 - semana 1 (modelos y filtros de motor de búsqueda)</td>
+    <td>57 minutos</td>
+  </tr>
+  <tr>
+    <td>Categorización de issues</td>
+    <td>20 minutos</td>
+  </tr>
+  <tr>
+    <td>Gestión de tareas y organización - semana 2</td>
+    <td>1 hora y 35 minutos</td>
+  </tr>
+  <tr>
+    <td>Creación de servidor alojado en Oracle para la DB y configuración</td>
+    <td>2 horas y 10 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisión de paginación y funcionamiento de la base de datos</td>
+    <td>16 minutos</td>
+  </tr>
+  <tr>
+    <td>Gestión, revisiones y organización final del sprint (semana 3)</td>
+    <td>1 hora y 37 minutos</td>
+  </tr>
+  <tr>
+    <td>Despliegue 12/03/25</td>
+    <td>5 horas y 7 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Documentación</td>
+    <td>Actas de reunión 10/03 y 09/03</td>
+    <td>1 hora y 2 minutos</td>
+  </tr>
+  <tr>
+    <td>Coordinación tareas subgrupo 1 y realización informe de comienzo de sprint</td>
+    <td>1 hora y 31 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Reunión</td>
+    <td>Reunión 09/03</td>
+    <td>51 minutos</td>
+  </tr>
+  <tr>
+    <td>Reunión representantes</td>
+    <td>36 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Píldoras teóricas</td>
+    <td>Píldora 5a</td>
+    <td>26 minutos</td>
+  </tr>
+  <tr>
+    <td>Píldora 5b</td>
+    <td>46 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 21/02</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07/03</td>
+    <td>3 horas y 50 minutos</td>
+  </tr>
+</table>
+
 ### Rosado Raya, Santiago
-### Sánchez Márquez, Julia
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="20">Trabajo</td>
+    <td>Comunicación usuarios piloto</td>
+    <td>1 hora 19 minutos</td>
+  </tr>
+  <tr>
+    <td>Puesta en contacto con usuarios piloto y preparación de entorno</td>
+    <td>1 hora 20 minutos</td>
+  </tr>
+  <tr>
+    <td>Puesta a punto canal usuarios piloto</td>
+    <td>22 minutos</td>
+  </tr>
+  <tr>
+    <td>Contacto último usuario piloto</td>
+    <td>15 minutos</td>
+  </tr>
+  <tr>
+    <td>Implementar entidad rent</td>
+    <td>2 horas 4 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglo entidad rent</td>
+    <td>25 minutos</td>
+  </tr>
+  <tr>
+    <td>Arreglo entidad rent</td>
+    <td>32 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisión documento rendimiento</td>
+    <td>43 minutos</td>
+  </tr>
+  <tr>
+    <td>Creación documento usuario piloto</td>
+    <td>41 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisión PR #5 (repo documentación) y creación de Commitment Agreement usuarios piloto</td>
+    <td>1 hora 19 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisión PR desarrollo vista alquiler objeto #108</td>
+    <td>32 minutos</td>
+  </tr>
+  <tr>
+    <td>Contacto usuarios piloto Sprint 1</td>
+    <td>41 minutos</td>
+  </tr>
+  <tr>
+    <td>Contacto usuarios piloto Sprint 1</td>
+    <td>10 minutos</td>
+  </tr>
+  <tr>
+    <td>Tratamiento CA UP</td>
+    <td>16 minutos</td>
+  </tr>
+  <tr>
+    <td>Guía usuarios piloto</td>
+    <td>42 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisar PR #144, #142, #140</td>
+    <td>35 minutos</td>
+  </tr>
+  <tr>
+    <td>CA usuario piloto no asignatura</td>
+    <td>15 minutos</td>
+  </tr>
+  <tr>
+    <td>Pasar a MD documentos referentes a los UP</td>
+    <td>53 minutos</td>
+  </tr>
+  <tr>
+    <td>Revisión PR #147, #146, #152</td>
+    <td>25 minutos</td>
+  </tr>
+  <tr>
+    <td>Mejora de documentos UP</td>
+    <td>1 hora 37 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Reuniones</td>
+    <td>Reunión mitad Sprint 1</td>
+    <td>1 hora 9 minutos</td>
+  </tr>
+  <tr>
+    <td>Recopilación feedback usuarios pilotos</td>
+    <td>56 minutos</td>
+  </tr>
+  <tr>
+    <td>Recopilación feedback usuarios pilotos</td>
+    <td>1 hora 18 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clase</td>
+    <td>Clase 21/02/2025</td>
+    <td>3 horas 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07/03/2025</td>
+    <td>3 horas 50 minutos</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td colspan="2">29 horas 8 minutos</td>
+  </tr>
+  <tr>
+    <td>Enlace Clockify</td>
+    <td colspan="2"><a href="https://app.clockify.me/shared/67d32d1f06a063047edacfdf" target="_blank">Clockify</a></td>
+  </tr>
+</table>
+
+### Sánchez Márquez, Julia 
+<table>
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>Detalles de la actividad</th>
+      <th>Tiempo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="16">Trabajo</td>
+      <td>Creación de diagrama UML</td>
+      <td>5 horas y 20 minutos</td>
+    </tr>
+    <tr>
+      <td>Arreglar incongruencias en el diagrama</td>
+      <td>1 hora</td>
+    </tr>
+    <tr>
+      <td>Inicializar proyecto base</td>
+      <td>8 minutos</td>
+    </tr>
+    <tr>
+      <td>Implementar todos los endpoint de Rentas</td>
+      <td>3 hora y 5 minutos</td>
+    </tr>
+    <tr>
+      <td>Implementar backend rentas para aceptar o rechazar un alquiler + Validar todas los endpoints</td>
+      <td>3 horas y 31 minutos</td>
+    </tr>
+    <tr>
+      <td>Solucionar errores con bbdd</td>
+      <td>1 hora y  35 minutos</td>
+    </tr>
+    <tr>
+      <td>Intento seeder para probar endpoints</td>
+      <td>20 minutos</td>
+    </tr>
+    <tr>
+      <td>Creacion de objetos para probar endpoints + probar endpoints</td>
+      <td>21 minutos</td>
+    </tr>
+    <tr>
+      <td>Arreglar fallo modelo Rent</td>
+      <td>14 minutos</td>
+    </tr>
+    <tr>
+      <td>Arreglar fallo Codacy</td>
+      <td>25 minutos</td>
+    </tr>
+    <tr>
+      <td>Arreglar método POST Rent + serializer</td>
+      <td>32 minutos</td>
+    </tr>
+    <tr>
+      <td>Arreglar migraciones + solucionar fallo url para david</td>
+      <td>19 minutos</td>
+    </tr>
+    <tr>
+      <td>Convertir docs de pdf a md</td>
+      <td>24 minutos</td>
+    </tr>
+    <tr>
+      <td>Crear usuario admin</td>
+      <td>15 minutos</td>
+    </tr>
+    <tr>
+      <td>Theory Pill S02 A</td>
+      <td>26 minutos</td>
+    </tr>
+    <tr>
+      <td>Theory Pill S02 B</td>
+      <td>46minutos</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Clases</td>
+      <td>Clase 21/02/25</td>
+      <td>3 horas y 50 minutos</td>
+    </tr>
+    <tr>
+      <td>Clase 7/3/25</td>
+      <td>3 horas y 50 minutos</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Sevillano Barea, Alejandro
+<table>
+  <tr>
+    <th>Tarea</th>
+    <th>Detalles de la actividad</th>
+    <th>Tiempo</th>
+  </tr>
+  <tr>
+    <td rowspan="8">Trabajo</td>
+    <td>Configuración de ZenHub</td>
+    <td>1 hora y 44 minutos</td>
+  </tr>
+  <tr>
+    <td>Asociación del ZenHub con GitHub</td>
+    <td>31 minutos</td>
+  </tr>
+  <tr>
+    <td>Asignación de tareas en ZenHub</td>
+    <td>18 minutos</td>
+  </tr>
+  <tr>
+    <td>Preparar entorno de pruebas unitarias</td>
+    <td>3 horas y 51 minutos</td>
+  </tr>
+  <tr>
+    <td>Test unitarios de búsqueda</td>
+    <td>2 horas y 54 minutos</td>
+  </tr>
+  <tr>
+    <td>Reportes de bugs</td>
+    <td>36 minutos</td>
+  </tr>
+  <tr>
+    <td>Despliegue 12/03/2025</td>
+    <td>2 horas y 49 minutos</td>
+  </tr>
+  <tr>
+    <td>Modificación de la Landing page</td>
+    <td>15 minutos</td>
+  </tr>
+  <tr>
+    <td>Reuniones</td>
+    <td>Reunión 09/03/2025</td>
+    <td>1 hora y 13 minutos</td>
+  </tr>
+  <tr>
+    <td>Píldoras Teóricas</td>
+    <td>Visualización de las Píldoras teóricas 5a y 5b</td>
+    <td>1 hora y 13 minutos</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Clases</td>
+    <td>Clase 21-02-25</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+  <tr>
+    <td>Clase 07-03-25</td>
+    <td>3 horas y 40 minutos</td>
+  </tr>
+</table>
