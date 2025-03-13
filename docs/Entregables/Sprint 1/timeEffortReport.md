@@ -1853,7 +1853,7 @@
 </table>
 
 ### Martin Muñoz, Álvaro
-<table border="1">
+<table>
   <tr>
     <th>Tarea</th>
     <th>Detalles de la actividad</th>
@@ -1960,10 +1960,7 @@
     <td>21/02/2025</td>
     <td>3h50min</td>
   </tr>
-  <tr>
-    <td>7/03/2025</td>
-    <td>3h50min</td>
-  </tr>
+
 </table>
 
 ### Naredo Bernardos, Ignacio
