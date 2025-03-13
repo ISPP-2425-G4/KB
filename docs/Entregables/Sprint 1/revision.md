@@ -177,7 +177,7 @@ Credenciales usuario:
 
 	- Usuario: User2 / Password: 123 
 
- Administrador (acceder desde ruta /admin):
+ Administrador (acceder desde ruta https://backend-dot-ispp-2425-g4.ew.r.appspot.com/admin): 
 
  	- Administrador: admin_ispp / B0rr0o2025ISPP
   	 (correo por si fuese necesario: borroohelp@gmail.com)
