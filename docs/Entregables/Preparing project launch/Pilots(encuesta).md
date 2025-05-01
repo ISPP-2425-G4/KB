@@ -7,7 +7,7 @@
 
 Fecha: 20/02/2025  
 
-</div>
+
 
 **Miembros:**  
 - David Blanco Mora  
