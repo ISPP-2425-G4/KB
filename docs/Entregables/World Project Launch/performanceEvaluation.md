@@ -1016,7 +1016,7 @@ De forma paralela he colaborado en la realización de pruebas de la presentació
 
 ### **Martín Muñoz, Álvaro**
 
-<div align="justify"> <h2>Informe de Actividades</h2>
+<h2>Informe de Actividades</h2>
 <b>Primera semana</b>
 
 Durante esta semana inicial, se realizaron actividades orientadas a la formación y planificación del trabajo. Se asistió a la <b>clase del 02/05/2025</b>, con una duración de 4 horas y 20 minutos.
@@ -1032,8 +1032,6 @@ Posteriormente, se centraron esfuerzos en la <b>edición de la Landing Page del 
 También se completó el <b>TimeEffortReport y la Performance Evaluation</b> (1 hora, 16 minutos), permitiendo documentar adecuadamente el trabajo individual y realizar una autoevaluación crítica del rendimiento.
 
 Finalmente, se asistió a la <b>clase de Presentación del Trabajo WPL</b>, en una jornada intensiva de 5 horas.
-
-</div>
 
 
 
